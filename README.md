@@ -1,7 +1,7 @@
 Flask is an open source web application framework for Python. This project is on Flask application and deploying it to an AWS Elastic Beanstalk environment.
 
-Set up a Python virtual environment with flask:
-1.Create a project directory and virtual environment for your application, and install Flask
+1.Set up a Python virtual environment with flask:
+Create a project directory and virtual environment for your application, and install Flask
 mkdir flask_project && cd flask_project 
 
 2.Create and activate a virtual environment named virt:
